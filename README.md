@@ -10,6 +10,10 @@ The story was based on an analysis of the latest MPs' register of interests, and
 
 * []()
 
+## Other documents
+
+* The Code of Conduct together with The Guide to the Rules relating to the Conduct of Members - House of Commons: [Chapter 1: Registration of Members' Financial Interests](https://publications.parliament.uk/pa/cm201516/cmcode/1076/107604.htm#a3)
+
 ## Visualisation
 
 * Bar chart: Donors appearing most in register of MPs' interests (shown above)
