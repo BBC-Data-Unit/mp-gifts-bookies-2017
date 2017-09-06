@@ -4,11 +4,11 @@
 
 In September 2017 we [published a story on sports and betting companies topping the list of donors treating MPs to gifts and hospitality](http://www.bbc.co.uk/news/uk-england-41027964). 
 
-The story was based on an analysis of the latest MPs' register of interests, and followed a [story the previous month on MPs employing relatives](http://www.bbc.co.uk/news/uk-england-40709220). The data was scraped using a script written in Python.
+The story was based on an analysis of [the latest MPs' register of interests](https://publications.parliament.uk/pa/cm/cmregmem/170829/contents.htm), and followed a [story the previous month on MPs employing relatives](http://www.bbc.co.uk/news/uk-england-40709220). The data was scraped using a script written in Python.
 
 ## Get the data
 
-* []()
+* [Gifts and hospitality, by gift and MP, August 31 2017](https://github.com/BBC-Data-Unit/mp-gifts-bookies-2017/blob/master/gifts_registerofinterests_170829.csv)
 
 ## Other documents
 
