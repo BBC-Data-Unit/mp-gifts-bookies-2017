@@ -19,7 +19,7 @@ The story was based on an analysis of [the latest MPs' register of interests](ht
 * Bar chart: Donors appearing most in register of MPs' interests (shown above)
 * Bar chart: Biggest donors by value
 
-# Code
+## Code
 
 These are part of a longer script which is still under development and will be published here later:
 * [Python function: get each gift](https://github.com/BBC-Data-Unit/mp-gifts-bookies-2017/blob/master/getgifts.py)
