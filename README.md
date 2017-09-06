@@ -22,7 +22,7 @@ The story was based on an analysis of [the latest MPs' register of interests](ht
 # Code
 
 These are part of a longer script which is still under development and will be published here later:
-* [Python function: get each gift](https://github.com/BBC-Data-Unit/mp-gifts-bookies-2017/blob/master/getgifts.py
+* [Python function: get each gift](https://github.com/BBC-Data-Unit/mp-gifts-bookies-2017/blob/master/getgifts.py)
 * [Python function: count numbers and find largest number in declaration text string](https://github.com/BBC-Data-Unit/mp-gifts-bookies-2017/blob/master/find_largest_num.py)
 
 ## Related repos
